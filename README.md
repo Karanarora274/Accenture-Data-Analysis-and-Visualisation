@@ -1,5 +1,7 @@
 # Accenture North America Data Analytics and Visualization Job Simulation (October 2024)
 
+![Alt text describing the image](https://github.com/Karanarora274/Accenture-Data-Analysis-and-Visualisation/blob/main/Karan%20Social%20Buzz%20Presentation.png)
+
 ## Overview
 
 This repository contains the work completed during the **Accenture North America Data Analytics and Visualization Job Simulation** on Forage in October 2024. The project involved advising a hypothetical social media client as a Data Analyst. I worked with CSV files related to content, reactions, and reaction types to analyze trends and provide strategic recommendations, including data sampling and modeling.
