@@ -23,7 +23,7 @@ The project utilized three main datasets:
 3. [**Reaction Types CSV**](https://docs.google.com/spreadsheets/d/1gMmFYPKTk-SoPDIT5d24nfgixqJ5irz29pbjUf6CpEI/edit?usp=sharing) - Categorization of different reaction types (e.g., likes, comments, shares).
 
 ## Final Analysis File
-- [**Final Analysis File**](https://docs.google.com/spreadsheets/d/1b8UiwEF812rfnloRWbbFvG4xXhDG_ljOJYJCzvnIpc8/edit?gid=971338287#gid=971338287)
+- [**Final Analysis File**](https://docs.google.com/spreadsheets/d/1b8UiwEF812rfnloRWbbFvG4xXhDG_ljOJYJCzvnIpc8/edit?gid=971338287#gid=971338287) - Contains the final insights and visualisations to perform data driven business decision.
 
 ## Key Insights
 
